@@ -1,8 +1,8 @@
 ## Hi! I'm Olga.
 
-<p><a href="https://www.linkedin.com/in/shebeolga/" target="_blank" rel="nofollow">
+<p><a target="_blank"  href="https://www.linkedin.com/in/shebeolga/"rel="nofollow">
   <img align="left" alt="Olga Shebeko | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/59893947/102355265-4dfcac00-3fb4-11eb-8487-c7433c26c3d0.png" style="max-width:100%;"></a>
-<a href="https://shebeolga.medium.com/" target="_blank" rel="nofollow">
+<a target="_blank"  href="https://shebeolga.medium.com/" rel="nofollow">
   <img align="left" alt="Olga Shebeko | Medium" width="22px" src="https://user-images.githubusercontent.com/59893947/102355522-a2a02700-3fb4-11eb-804d-d21b2d2c563f.png" style="max-width:100%;"></a></p><br>
 <br>
 
@@ -18,9 +18,9 @@ I can bring to the company my development and communication skills, ability to e
 
 ### Recent Medium articles:
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shebeolga/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shebeolga/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shebeolga/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shebeolga/0" alt="Recent Article 0"></a>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shebeolga/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shebeolga/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shebeolga/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shebeolga/1" alt="Recent Article 1"></a>
 
 I'm looking for a job where I can use my development and communication skills to make something significant and useful for others.
 
