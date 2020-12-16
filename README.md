@@ -12,7 +12,7 @@
 - python (including OOP, GUI modules, data Analysis and visualization tools, unit tests)
 - basic HTML and CSS
 - databases and SQL
-- Java (learning process)
+- java (learning process)
 
 I can bring to the company my development and communication skills, ability to explain sophisticated concepts in simple words, fast learning, and team playing abilities.
 
@@ -22,7 +22,7 @@ I can bring to the company my development and communication skills, ability to e
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shebeolga/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shebeolga/1" alt="Recent Article 1"> 
 
-
+I'm looking for a job where I can use my development and communication skills to make something significant and useful for others.
 
 <!--
 **shebeolga/shebeolga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
