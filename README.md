@@ -1,5 +1,10 @@
 ## Hi! I'm Olga.
 
+<a href="https://www.linkedin.com/in/shebeolga/" rel="nofollow">
+  <img align="left" alt="Olga Shebeko | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/59893947/102355265-4dfcac00-3fb4-11eb-8487-c7433c26c3d0.png" style="max-width:100%;"></a>
+<a href="https://shebeolga.medium.com/" rel="nofollow">
+  <img align="left" alt="Olga Shebeko | Medium" width="22px" src="https://user-images.githubusercontent.com/59893947/102355522-a2a02700-3fb4-11eb-804d-d21b2d2c563f.png" style="max-width:100%;"></a>
+
 I'm passionate about programming because new technologies give us new opportunities. And I want to be a part of this movement.
 
 ### Technical stack:
@@ -16,16 +21,6 @@ I can bring to the company my development and communication skills, ability to e
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shebeolga/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shebeolga/1" alt="Recent Article 1"> 
 
-
-### To be in touch:
-LinkedIn: https://www.linkedin.com/in/shebeolga/<br>
-Medium: https://shebeolga.medium.com/
-
-<a href="https://shebeolga.medium.com/" rel="nofollow">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width:100%;">
-</a>
-<a href="https://www.linkedin.com/in/shebeolga/" rel="nofollow">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;">
 
 
 <!--
