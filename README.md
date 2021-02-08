@@ -9,10 +9,10 @@
 <p>I'm looking for a job where I can use my development and communication skills to make something significant and useful for others. I'm passionate about programming because new technologies give us new opportunities. And I want to be a part of this movement.</p>
 
 ### Technical stack:
-- python (including OOP, GUI modules, data Analysis and visualization tools, unit tests)
+- python including web development (flask), GUI modules (tkinter, wxpython), data analysis and visualization tools (nympy, pandas, matplotlib. seaborn), unit tests (unittest, pytest)
+- java (learning process)
 - basic HTML and CSS
 - databases and SQL
-- java (learning process)
 
 I can bring to the company my development and communication skills, ability to explain sophisticated concepts in simple words, fast learning, and team playing abilities.
 
@@ -22,7 +22,7 @@ I can bring to the company my development and communication skills, ability to e
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shebeolga/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shebeolga/1" alt="Recent Article 1"></a>
 
-I'm looking for a job where I can use my development and communication skills to make something significant and useful for others.
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shebeolga/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shebeolga/1" alt="Recent Article 2"></a>
 
 <!--
 **shebeolga/shebeolga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
