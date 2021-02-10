@@ -14,7 +14,7 @@
 - basic HTML and CSS
 - databases and SQL
 
-I can bring to the company my development and communication skills, ability to explain sophisticated concepts in simple words, fast learning, and team playing abilities.
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shebeolga&repo=ToDo-Application)
 
 ### Recent Medium articles:
 
@@ -24,6 +24,7 @@ I can bring to the company my development and communication skills, ability to e
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shebeolga/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shebeolga/2" alt="Recent Article 2"></a>
 
+I can bring to the company my development and communication skills, ability to explain sophisticated concepts in simple words, fast learning, and team playing abilities.
 <!--
 **shebeolga/shebeolga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
