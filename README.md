@@ -14,7 +14,17 @@
 - basic HTML and CSS
 - databases and SQL
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shebeolga&repo=ToDo-Application)
+### Projects:
+<table>
+  <tr>
+    <td>
+      ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shebeolga&repo=ToDo-Application)
+    </td>
+    <td>
+      ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shebeolga&repo=employees_attendance_system)
+    </td>
+  </tr>
+</table>
 
 ### Recent Medium articles:
 
