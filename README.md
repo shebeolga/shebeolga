@@ -15,8 +15,8 @@
 - databases and SQL
 
 ### Projects:
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shebeolga&repo=employees_attendance_system)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shebeolga&repo=ToDo-Application)
+<a href="https://github.com/shebeolga/employees_attendance_system">![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shebeolga&repo=employees_attendance_system)</a>
+<a href="https://github.com/shebeolga/ToDo-Application">![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shebeolga&repo=ToDo-Application)</a>
 
 ### Recent Medium articles:
 
